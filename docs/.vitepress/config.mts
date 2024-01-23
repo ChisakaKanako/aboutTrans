@@ -1,10 +1,9 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  base: '/aboutTrans/',
   title: "aboutTrans",
   description: "一个科普跨性别相关知识的小站",
   head: [
-    ['link', { rel: 'icon', href: '/aboutTrans/icon.png'}]
+    ['link', { rel: 'icon', href: '/icon.png'}]
   ],
   themeConfig: {
     search: {
