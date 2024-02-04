@@ -50,7 +50,7 @@ export default defineConfig({
         text: '#概念',
         items: [
           { text: '相关词汇及定义', link: '/document/words.md' },
-          { text: '相关医疗及诊断', link: '/document/medical.md' },
+          { text: '相关诊断及医疗', link: '/document/medical.md' },
           { text: '相关节日纪念日', link: '/document/days.md' },
           { text: '相关资料与调研', link: '/document/research.md' }
         ]
@@ -58,7 +58,7 @@ export default defineConfig({
       {
         text: '#问答',
         items: [
-          { text: '跨性别相关问答', link: 'document/Q&A.md'}
+          { text: '跨性别问答合集', link: 'document/Q&A.md'}
         ]
       },
       {
