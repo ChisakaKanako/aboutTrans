@@ -56,16 +56,16 @@ export default defineConfig({
         ]
       },
       {
+        text: '#问答',
+        items: [
+          { text: '跨性别相关问答', link: 'document/Q&A.md'}
+        ]
+      },
+      {
         text: '#文章',
         items: [
           { text: '例1', link: '/document/2023-08-15.md' },
           { text: '例2', link: '/document/2023-08-16.md' }
-        ]
-      },
-      {
-        text: '#问答',
-        items: [
-          { text: '问答合集', link: 'document/Q&A.md'}
         ]
       },
       {
