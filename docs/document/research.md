@@ -10,7 +10,7 @@ title: 相关资料与调研
 # 拓展资料
 ## 北同文化《跨性别医疗手册（2022）》
 ![封面](/b1.png)
-[点此下载文件（103.6MB）](https://raw.githubusercontent.com/ChisakaKanako/aboutTrans/main/docs/document/file/北同文化《跨性别医疗手册（2022）.pdf)
+[点此下载文件（103.6MB）](https://raw.githubusercontent.com/ChisakaKanako/aboutTrans/main/docs/document/file/北同文化《跨性别医疗手册（2022）》.pdf)
 ## 《应对“扭转治疗”手册》
 ![封面](/b2.png)
 [点此下载文件（1.4MB）](https://raw.githubusercontent.com/ChisakaKanako/aboutTrans/main/docs/document/file/《应对“扭转治疗”手册》.pdf)
