@@ -1,7 +1,7 @@
 ---
 title: 相关资料与调研
 ---
-# 相关资料与调研
+# 相关调研与资料
 ## 北同文化《2021全国跨性别健康调研报告》（勘误版）
 ![封面](/a1.png)
 [点此下载文件（73.6MB）](https://raw.githubusercontent.com/ChisakaKanako/aboutTrans/main/docs/document/file/北同文化《2021全国跨性别健康调研报告》（勘误版）.pdf)

@@ -11,9 +11,9 @@ title: 欢迎
 本站致力于提供跨性别相关知识的科普信息，不包含例如相关诊断证明开具的就诊流程、具体用药指导等信息。本站在编写过程中参考了维基百科跨性别相关词条。
 :::
 [相关词汇及定义](/document/words.md)  
-[相关医疗及诊断](/document/medical.md)  
+[相关诊断及医疗](/document/medical.md)  
 [相关节日纪念日](/document/days.md)  
-[相关资料与调研](/document/research.md)  
+[相关调研与资料](/document/research.md)  
 [跨性别相关问答](/document/Q&A.md)  
 [关于我们](/document/about.md)  
 [投稿通道](/document/post.md)  
