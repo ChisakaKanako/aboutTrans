@@ -24,6 +24,15 @@ const members = [
       { icon: 'github', link: 'https://github.com/lulu0119' }
     ]
   },
+  {
+    avatar: 'https://avatars.githubusercontent.com/u/9146919?v=4)',
+    name: '半生',
+    title: '技术支持',
+    links: [
+      { icon: 'twitter', link: 'https://twitter.com/LaWbda' },
+      { icon: 'github', link: 'https://github.com/Sewens' }
+    ]
+  },
 ]
 </script>
 <VPTeamMembers size="small" :members="members" />
