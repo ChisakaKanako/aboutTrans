@@ -13,7 +13,7 @@ title: 欢迎
 [相关词汇及定义](/document/words.md)  
 [相关医疗及诊断](/document/medical.md)  
 [相关节日纪念日](/document/days.md)  
-[相关调研与统计](/document/research.md)  
+[相关资料与调研](/document/research.md)  
 [问答合集](/document/Q&A.md)  
 [关于我们](/document/about.md)  
 [投稿通道](/document/post.md)  

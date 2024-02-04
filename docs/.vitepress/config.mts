@@ -52,7 +52,7 @@ export default defineConfig({
           { text: '相关词汇及定义', link: '/document/words.md' },
           { text: '相关医疗及诊断', link: '/document/medical.md' },
           { text: '相关节日纪念日', link: '/document/days.md' },
-          { text: '相关调研与统计', link: '/document/research.md' }
+          { text: '相关资料与调研', link: '/document/research.md' }
         ]
       },
       {
