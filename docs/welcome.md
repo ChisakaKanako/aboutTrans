@@ -14,7 +14,7 @@ title: 欢迎
 [相关诊断及医疗](/document/medical.md)  
 [相关节日纪念日](/document/days.md)  
 [相关调研与资料](/document/research.md)  
-[跨性别相关问答](/document/Q&A.md)  
+[跨性别问答合集](/document/Q&A.md)  
 [关于我们](/document/about.md)  
 [投稿通道](/document/post.md)  
 [特别鸣谢](/document/thanks.md)  
