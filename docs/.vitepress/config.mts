@@ -58,22 +58,21 @@ export default defineConfig({
       {
         text: '#问答',
         items: [
-          { text: '跨性别问答合集', link: 'document/Q&A.md'}
+          { text: '相关误区与问答', link: '/document/Q&A.md' }
         ]
       },
       {
         text: '#文章',
         items: [
-          { text: '页面建设中～', link: '/document/2023-08-15.md' },
-          { text: '还没有内容～', link: '/document/2023-08-16.md' }
+          { text: '投稿与转载文章', link: '/document/article.md' }
         ]
       },
       {
         text: '#关于',
         items: [
-          { text: '关于我们', link: '/document/about.md'},
-          { text: '投稿通道', link: '/document/post.md'},
-          { text: '特别鸣谢', link: '/document/thanks.md'}
+          { text: '关于我们', link: '/document/about.md' },
+          { text: '投稿通道', link: '/document/post.md' },
+          { text: '特别鸣谢', link: '/document/thanks.md' }
         ]
       },
     ],
