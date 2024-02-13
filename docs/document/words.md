@@ -35,7 +35,7 @@ title: 相关词汇及定义
 ## 真实生活体验
 真实生活体验（Real-life experience，简写为RLE），指跨性别者全天候地按照其所认同的性别角色去生活，即“我应该有什么样的性别表达”。
 ## 性别肯定激素治疗
-性别肯定激素治疗（Gender-Affirming Hormone Therapy，简写为GAHT），旧称激素替代治疗（Hormone Replacement Therapy，简写为HRT），是通过药物使跨性别者和非二元性别者的第二性征与其性别认同趋近的方法。激素治疗一般分为两种：女性化激素疗法、用于跨性别女性，使用如醋酸环丙孕酮等抗雄激素和雌二醇等雌激素；男性化激素疗法、用于跨性别男性，使用如睾酮等雄激素。
+性别肯定激素治疗（Gender-Affirming Hormone Therapy，简写为GAHT），旧称激素替代治疗（Hormone Replacement Therapy，简写为HRT），是通过药物使跨性别者和非二元性别者的第二性征与其性别认同趋近的方法。
 ## 性别肯定手术
 性别肯定手术（Gender Affirming Surgery，简写为GAS），旧称性别重置手术（Sex Reassignment Surgery，简写为SRS），是一项外科手术，这种手术通常是将生殖器进行重建或改造，使之与个体所认同的性别相符。
 ## 面部女性化手术
