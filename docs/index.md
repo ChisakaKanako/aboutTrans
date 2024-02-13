@@ -13,19 +13,19 @@ hero:
       link: https://github.com/ChisakaKanako/aboutTrans
 features:
   - icon: 📑
-    title: 概念
+    title: "#概念"
     details: 跨性别相关词汇概念与定义
     link: /document/words.md
   - icon: 💬
-    title: 问答
+    title: "#问答"
     details: 跨性别相关知识问答Q&A
     link: /document/Q&A.md
   - icon: 📖
-    title: 文章
+    title: "#文章"
     details: 跨性别相关投稿与转载文章
     link: /document/article.md
   - icon: 💡
-    title: 关于
+    title: "#关于"
     details: 网站内容投稿与修改建议
     link: /document/about.md
 ---
