@@ -8,14 +8,17 @@ title: 欢迎
 :::
 # 页面导航
 ::: info 内容说明：
-本站致力于提供跨性别相关知识的科普信息，不包含例如相关诊断证明开具的就诊流程、具体用药指导等信息。本站在编写过程中参考了维基百科跨性别相关词条。
+本站致力于提供跨性别相关知识等科普信息。  
+本站不提供相关诊断开具及用药指导等信息。  
+本站在编写过程中参考了维基百科相关词条。  
+本站所示全部信息仅适用于中国大陆地区。
 :::
-[相关词汇及定义](/document/words.md)  
-[相关诊断及医疗](/document/medical.md)  
-[相关节日纪念日](/document/days.md)  
-[相关调研与资料](/document/research.md)  
-[相关误区与问答](/document/Q&A.md)  
-[投稿与转载文章](/document/article.md)  
-[关于我们](/document/about.md)  
-[投稿通道](/document/post.md)  
-[特别鸣谢](/document/thanks.md)
+* [相关词汇及定义](/document/words.md)  
+* [相关诊断及医疗](/document/medical.md)  
+* [相关节日纪念日](/document/days.md)  
+* [相关调研与资料](/document/research.md)  
+* [相关误区与问答](/document/Q&A.md)  
+* [投稿与转载文章](/document/article.md)  
+* [关于我们](/document/about.md)  
+* [投稿通道](/document/post.md)  
+* [特别鸣谢](/document/thanks.md)

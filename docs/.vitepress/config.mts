@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "aboutTrans",
-  description: "一个科普跨性别相关知识的小站",
+  description: "关于跨性别，你想知道的一切",
   head: [
     ['link', { rel: 'icon', href: '/icon.png'}]
   ],
