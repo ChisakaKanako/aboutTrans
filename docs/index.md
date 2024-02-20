@@ -5,7 +5,7 @@ hero:
   name: aboutTrans
   text: "跨性别相关知识科普站\n你想知道的都在这里🏳️‍⚧️"
   actions:
-    - theme: alt
+    - theme: brand
       text: 查看文档
       link: welcome.md
     - theme: alt
