@@ -64,15 +64,13 @@ export default defineConfig({
       {
         text: '#文章',
         items: [
-          { text: '投稿与转载文章', link: '/document/article.md' }
+          { text: '相关转载文章', link: '/document/article.md' }
         ]
       },
       {
         text: '#关于',
         items: [
-          { text: '关于我们', link: '/document/about.md' },
-          { text: '投稿通道', link: '/document/post.md' },
-          { text: '特别鸣谢', link: '/document/thanks.md' }
+          { text: '关于本站', link: '/document/about.md' }
         ]
       },
     ],

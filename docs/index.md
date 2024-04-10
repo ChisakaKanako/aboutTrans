@@ -10,20 +10,14 @@ hero:
     - theme: brand
       text: 查看文档
       link: welcome.md
-    - theme: alt
-      text: 在GitHub上查看
-      link: https://github.com/ChisakaKanako/aboutTrans
 features:
   - icon: 📑
     title: "#概念"
-    details: 跨性别相关概念与医疗信息
+    details: 跨性别相关概念信息
   - icon: 💬
     title: "#问答"
-    details: 跨性别相关知识问答Q&A
+    details: 跨性别相关知识问答
   - icon: 📖
     title: "#文章"
-    details: 跨性别相关投稿与转载文章
-  - icon: 💡
-    title: "#关于"
-    details: 网站内容投稿与修改建议
+    details: 跨性别相关转载文章
 ---
