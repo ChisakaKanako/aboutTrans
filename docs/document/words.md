@@ -20,9 +20,9 @@ title: 相关词汇及定义
 ## 跨性别
 跨性别（Transgender，简写为Trans），指一个人的性别认同与其指派性别不同，包括跨性别女性、跨性别男性及非二元性别。
 ## 跨性别女性
-跨性别女性（Transgender female），也称男跨女（Male to Female，简写为MtF），指出生时指派性别为男性，但性别认同为女性的个体，本质上是女性。
+跨性别女性（Transgender female或Trans female），也称男跨女（Male to Female，简写为MtF），指出生时指派性别为男性，但性别认同为女性的个体，本质上是女性。
 ## 跨性别男性
-跨性别男性（Transgender male），也称女跨男（Female to Male，简写为FtM），指出生时指派性别为女性，但性别认同为男性的个体，本质上是男性。
+跨性别男性（Transgender male或Trans male），也称女跨男（Female to Male，简写为FtM），指出生时指派性别为女性，但性别认同为男性的个体，本质上是男性。
 ## 非二元性别
 非二元性别（Non-binary gender），也称X性别（X-gender），指不符合传统的男性或女性二元性别分类的个体，性别认同因人而异。一些非二元性别个体可能认为自己是无性别（Agender）、双性别（Bigender）、流动性别（Genderfluid）及性别酷儿（Genderqueer）。
 ## 顺性别
