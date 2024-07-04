@@ -9,7 +9,7 @@ title: 欢迎
 本站不提供相关诊断开具及用药指导等信息。  
 本站在编写过程中参考了维基百科相关词条。  
 本站所示内容仅适用于中国大陆地区。  
-本站内容最新更新于[2024年6月4号](https://github.com/ChisakaKanako/aboutTrans)。
+本站内容最新更新于[2024年7月4号](https://github.com/ChisakaKanako/aboutTrans)。
 :::
 * [相关词汇及释义](/document/words.md)  
 * [相关诊断及医疗](/document/medical.md)  
