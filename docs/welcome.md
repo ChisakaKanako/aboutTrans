@@ -9,8 +9,6 @@ title: 欢迎
 本站不提供相关诊断开具及用药指导等信息；  
 本站在编写过程中参考了维基百科相关词条；  
 本站所示内容仅适用于大陆地区。  
-原域名aboutrans.info已于24年7月10日到期。  
-现域名aboutrans.site有效期至25年7月14日。
 :::
 * [相关词汇及释义](/document/words.md)  
 * [相关诊断及医疗](/document/medical.md)  
