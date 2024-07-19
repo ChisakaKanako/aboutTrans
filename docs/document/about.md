@@ -27,7 +27,7 @@ const members = [
 
 ---
 # 消除歧视与污名，需要你我的共同努力
-我们欢迎任何对词条、文章、代码编写感兴趣的小伙伴们加入我们，与我们共同完善aboutTrans，或对本站内容有任何修改建议的，也欢迎积极联系我们。
+我们欢迎任何对词条、文章编写感兴趣的小伙伴们加入我们，与我们共同完善aboutTrans，或对本站内容有任何修改建议的，也欢迎积极联系我们。
 ::: details 联系方式：
 `推特` [@ChisakaKanako](https://twitter.com/ChisakaKanako)  
 `邮箱` chisakakanako@gmail.com
