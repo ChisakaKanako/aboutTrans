@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
+  base: '/aboutTrans/',
   title: "aboutTrans",
   description: "关于跨性别，你想知道的一切",
   head: [
