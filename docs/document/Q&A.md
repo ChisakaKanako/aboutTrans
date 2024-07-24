@@ -14,7 +14,7 @@ A Systematic Review and Meta-analysis of Prevalence》<sup>1</sup>”中的结�
 2. [来源 - 第8页：【不同性别群体经历过激素和手术的比例】（跳转下载）](/document/research.html#北同文化《2021全国跨性别健康调研报告》-勘误版)
 ## 跨性别者接受了性别肯定医疗后会缩短寿命吗？
 **没有任何科学研究表明接受性别肯定医疗对寿命有影响**。  
-在当今中文互联网上广为流传的“进行激素治疗或变性手术活不过40岁”的说法，是营销号为了博得流量、吸引关注的，对跨性别群体进行猎奇化、毫无科学依据的说法。其逻辑有严重漏洞：即90后出生的顺性别者，至今也无一人活过40岁。
+其仅中文互联网上广为流传的“进行激素治疗或变性手术活不过40岁”的说法，是营销号为了博得流量、吸引关注的，对跨性别群体进行猎奇化、毫无科学依据的说法。其逻辑有严重漏洞：即90后出生的顺性别者，至今也无一人活过40岁。
 
 ---
 # 跨性别相关概念常见误区
@@ -23,7 +23,7 @@ A Systematic Review and Meta-analysis of Prevalence》<sup>1</sup>”中的结�
 一个人有何种性取向，与ta的出身、教育、家庭、成长经历无关。性取向的多样化就如同性别的多元化一样，无论哪种性取向都是正常的，我们有权利喜欢任何我们喜欢的人。不存在“男生就一定喜欢女生”或“女生就一定喜欢男生”这种说法。
 ## 性别认同是在后天成长中塑造的吗？
 **科学研究表明男女大脑结构存在显著差异且这一差异在胎儿时期就永久形成**。  
-根据*The Journal of Neuroscience期刊*于2012年发表的一项研究“《Sex Differences in the Brain: The Not So Inconvenient Truth》<sup>1</sup>”和*PNAS期刊*于2013年发表的一项研究“《Sex differences in the structural connectome of the human brain》<sup>2</sup>”中的结果表明，男性与女性的大脑在结构上存在着根本性差异，即大脑在结构上存在着显著的性别差异。而根据*Elsevier期刊*分别于2010年及2011年发表的研究“《Sexual differentiation of the human brain in relation to gender identity and sexual orientation》<sup>3</sup>”和“《Sexual differentiation of the human brain: relation to gender identity, sexual orientation and neuropsychiatric disorders》<sup>4</sup>”中的结果表明，大脑的性别划分在胎儿时期通过性激素水平永久决定，并在这一阶段决定了一个人会有何种性别认同，而第一性征的发育则独立于大脑的性别发育，无法影响大脑性别的划分。综上所述，一个人会有何种性别认同，是在胎儿时期就已决定的既定事实。
+根据*The Journal of Neuroscience期刊*于2012年发表的一项研究“《Sex Differences in the Brain: The Not So Inconvenient Truth》<sup>1</sup>”和*PNAS期刊*于2013年发表的一项研究“《Sex differences in the structural connectome of the human brain》<sup>2</sup>”中的结果表明，男性与女性的大脑在结构上存在着根本性差异，即大脑在结构上存在着显著的性别差异。而根据*Elsevier期刊*分别于2010年及2011年发表的研究“《Sexual differentiation of the human brain in relation to gender identity and sexual orientation》<sup>3</sup>”和“《Sexual differentiation of the human brain: relation to gender identity, sexual orientation and neuropsychiatric disorders》<sup>4</sup>”中的结果表明，大脑的性别划分在胎儿时期通过性激素水平永久决定，并在这一阶段决定了一个人会有何种性别认同，而第一性征的发育则独立于大脑的性别发育，无法影响大脑性别的划分。综上所述，一个人会有何种性别认同，是在胎儿时期就已决定的既定事实。需要注意的是，将“在后天成长经历中了解到跨性别相关概念后才确立自己的跨性别身份”这一做法视为“后天形成的”是完全偷换概念的做法。
 1. [来源 - *National Library of Medicine*（跳转访问）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3295598/)
 2. [来源 - *National Library of Medicine*（跳转访问）](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3896179/)
 3. [来源 - *ScienceDirect*（跳转访问）](https://doi.org/10.1016/B978-0-444-53630-3.00004-X)
