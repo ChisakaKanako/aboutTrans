@@ -15,5 +15,5 @@ title: 欢迎
 * [相关节日纪念日](/document/days.md)  
 * [相关调研与资料](/document/research.md)  
 * [相关误区与问答](/document/Q&A.md)  
-* [相关转载文章](/document/article.md)  
+* [相关文章与报道](/document/publish.md)  
 * [关于本站](/document/about.md)  
