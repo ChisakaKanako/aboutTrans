@@ -11,15 +11,15 @@ hero:
       text: 查看文档
       link: welcome.md
 features:
-  - icon: 📑
+  - icon: 📖
     title: "#概念"
     details: 跨性别相关概念词条
   - icon: 💬
     title: "#问答"
     details: 跨性别相关误区问答
-  - icon: 📖
+  - icon: 📑
     title: "#文章"
-    details: 跨性别相关转载文章
+    details: 跨性别相关文章报道
   - icon: 🔬
     title: "#客观"
     details: 科学事实与友善用语

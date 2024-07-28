@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 export default defineConfig({
-  base: '/aboutTrans/',
   title: "aboutTrans",
   description: "关于跨性别，你想知道的一切",
   head: [
@@ -65,7 +64,7 @@ export default defineConfig({
       {
         text: '#文章',
         items: [
-          { text: '相关转载文章', link: '/document/article.md' }
+          { text: '相关文章与报道', link: '/document/publish.md' }
         ]
       },
       {
