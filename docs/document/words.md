@@ -22,7 +22,7 @@ title: 相关词汇及定义
 ---
 # 跨性别概念相关
 ## 跨性别
-跨性别（Transgender，简写为Trans），指那些性别认同与其指派性别不同的个体。
+跨性别（Transgender，简写为Trans），指那些性别认同与其指派性别不同的个体，是一种先天性的生理错位状态。
 ## 跨性别女性
 跨性别女性（Transgender female或Trans female），也称男跨女（Male to Female，简写为MtF），指出生时指派性别为男性，但性别认同为女性的个体，本质上是女性。
 ## 跨性别男性
