@@ -47,29 +47,14 @@ export default defineConfig({
     ],
     sidebar: [
       {
-        text: '#概念',
         items: [
-          { text: '相关词汇及定义', link: '/document/words.md' },
-          { text: '相关诊断及医疗', link: '/document/medical.md' },
-          { text: '相关节日纪念日', link: '/document/days.md' },
-          { text: '相关调研与资料', link: '/document/research.md' }
-        ]
-      },
-      {
-        text: '#问答',
-        items: [
-          { text: '相关误区与问答', link: '/document/Q&A.md' }
-        ]
-      },
-      {
-        text: '#文章',
-        items: [
-          { text: '相关文章与报道', link: '/document/publish.md' }
-        ]
-      },
-      {
-        text: '#关于',
-        items: [
+          { text: '相关词汇与定义', link: '/document/definition.md' },
+          { text: '相关诊断与医疗', link: '/document/medical.md' },
+          { text: '相关政策与法规', link: '/document/regulation.md' },
+          { text: '相关国际纪念日', link: '/document/day.md' },
+          { text: '相关调研与资料', link: '/document/research.md' },
+          { text: '相关误区与问答', link: '/document/Q&A.md' },
+          { text: '相关文章与报道', link: '/document/publish.md' },
           { text: '关于本站', link: '/document/about.md' }
         ]
       },

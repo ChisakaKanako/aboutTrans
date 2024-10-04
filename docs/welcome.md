@@ -8,9 +8,10 @@ title: 欢迎
 本站不提供相关诊断开具及用药指导等信息；  
 本站所示的医疗相关内容仅适用于大陆地区。  
 :::
-* [相关词汇及释义](/document/words.md)  
-* [相关诊断及医疗](/document/medical.md)  
-* [相关节日纪念日](/document/days.md)  
+* [相关词汇与释义](/document/definition.md)  
+* [相关诊断与医疗](/document/medical.md)  
+* [相关政策与法规](/document/regulation.md)  
+* [相关国际纪念日](/document/day.md)  
 * [相关调研与资料](/document/research.md)  
 * [相关误区与问答](/document/Q&A.md)  
 * [相关文章与报道](/document/publish.md)  
