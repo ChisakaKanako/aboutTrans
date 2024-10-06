@@ -1,5 +1,5 @@
 ---
-title: 相关词汇与定义
+title: 相关词汇与释义
 ---
 # 跨性别相关
 ## 跨性别
@@ -36,7 +36,7 @@ title: 相关词汇与定义
 ## 性别肯定激素治疗
 性别肯定激素治疗（Gender-Affirming Hormone Therapy，简写为GAHT），旧称激素替代治疗（Hormone Replacement Therapy，简写为HRT），指通过药物使跨性别者的第二性征与其性别认同趋近的方法，包括女性化激素治疗和男性化激素治疗，通常适用于女性倾向及男性倾向认同的跨性别者。
 ## 性别肯定手术
-性别肯定手术（Gender Affirming Surgery，简写为GAS），旧称性别重置手术（Sex Reassignment Surgery，简写为SRS），是一项外科手术，这种手术通常是将第一性征进行重建或改造，使之与个体所认同的性别相符。
+性别肯定手术（Gender Affirming Surgery，简写为GAS），旧称性别重置手术（Sex Reassignment Surgery，简写为SRS），是一项外科手术，这种手术是将第一性征进行重建或改造，使之与个体所认同的性别相符。
 ## 面部女性化手术
 面部女性化手术（Facial Feminization Surgery，简写为FFS），是一项外科手术，适用于女性倾向跨性别者，指通过调整一个人的面部特征，使其更符合女性的外貌标准。
 ## 嗓音女性化手术

@@ -7,22 +7,22 @@ aboutTrans项目于2023年下半年启动，我们致力于为大家提供有关
 import { VPTeamMembers } from 'vitepress/theme'
 const members = [
   {
-    avatar: '/p1.jpg',
+    avatar: 'https://github.com/ChisakaKanako.png',
     name: '千坂神奈子',
     title: '网站运营',
   },
   {
-    avatar: '/p2.jpg',
+    avatar: 'https://github.com/lulu0119.png',
     name: '路路',
     title: '技术支持',
   },
   {
-    avatar: '/p3.jpg',
+    avatar: 'https://github.com/Sewens.png',
     name: '半生',
     title: '技术支持',
   },
   {
-    avatar: '/p4.jpg',
+    avatar: 'https://github.com/WenQianCHM.png',
     name: '闻千',
     title: '内容贡献',
   },

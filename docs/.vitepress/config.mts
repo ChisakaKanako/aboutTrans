@@ -32,7 +32,7 @@ export default defineConfig({
       }
     },
     sidebarMenuLabel: '目录',
-    darkModeSwitchLabel: '切换深色模式',
+    darkModeSwitchLabel: '深色模式',
     outlineTitle: '在此页面中',
     returnToTopLabel: '回到顶部',
     footer: {
@@ -48,7 +48,7 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: '相关词汇与定义', link: '/document/definition.md' },
+          { text: '相关词汇与释义', link: '/document/definition.md' },
           { text: '相关诊断与医疗', link: '/document/medical.md' },
           { text: '相关政策与法规', link: '/document/regulation.md' },
           { text: '相关国际纪念日', link: '/document/day.md' },
