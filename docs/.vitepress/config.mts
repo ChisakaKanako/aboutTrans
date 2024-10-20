@@ -3,7 +3,7 @@ export default defineConfig({
   title: "aboutTrans",
   description: "关于跨性别，你想知道的一切",
   head: [
-    ['link', { rel: 'icon', href: '/icon.png'}]
+    ['link', { rel: 'icon', href: '/icon.svg'}]
   ],
   themeConfig: {
     search: {
