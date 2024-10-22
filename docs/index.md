@@ -10,6 +10,9 @@ hero:
     - theme: brand
       text: 查看文档
       link: welcome.md
+    - theme: alt
+      text: 在GitHub上贡献
+      link: https://github.com/ChisakaKanako/aboutTrans
 features:
   - icon: 📖
     title: "#概念"
