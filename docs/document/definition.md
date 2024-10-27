@@ -69,7 +69,7 @@ title: 相关概念与释义
 
 ## 性别肯定手术
 
-性别肯定手术（Gender Affirming Surgery，简写为GAS），旧称性别重置手术（Sex Reassignment Surgery，简写为SRS），是一项外科手术，这种手术是将第一性征进行重建或改造，使之与个体所认同的性别相符。
+性别肯定手术（Gender Affirming Surgery，简写为GAS），旧称性别重置手术（Sex Reassignment Surgery，简写为SRS），是一项外科手术，这种手术通常是将第一性征进行重建或改造，使之与个体所认同的性别相符。
 
 ## 面部女性化手术
 
