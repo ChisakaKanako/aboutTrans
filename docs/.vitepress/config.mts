@@ -54,7 +54,7 @@ export default defineConfig({
           { text: '相关国际纪念日', link: '/document/day.md' },
           { text: '相关调研与资料', link: '/document/research.md' },
           { text: '相关误区与问答', link: '/document/Q&A.md' },
-          { text: '相关新闻与报道', link: '/document/coverage.md' },
+          { text: '相关文章与报道', link: '/document/coverage.md' },
           { text: '关于本站', link: '/document/about.md' }
         ]
       },

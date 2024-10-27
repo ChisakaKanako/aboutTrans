@@ -11,5 +11,5 @@ title: 欢迎
 * [相关国际纪念日](/document/day.md)  
 * [相关调研与资料](/document/research.md)  
 * [相关误区与问答](/document/Q&A.md)  
-* [相关新闻与报道](/document/coverage.md)  
+* [相关文章与报道](/document/coverage.md)  
 * [关于本站](/document/about.md)  

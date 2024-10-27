@@ -11,7 +11,7 @@ hero:
       text: 查看文档
       link: welcome.md
     - theme: alt
-      text: 在GitHub上贡献
+      text: 在GitHub上编辑
       link: https://github.com/ChisakaKanako/aboutTrans
 features:
   - icon: 📖
@@ -22,7 +22,7 @@ features:
     details: 跨性别相关误区问答
   - icon: 📑
     title: "#文章"
-    details: 跨性别相关新闻报道
+    details: 跨性别相关文章报道
   - icon: 🔬
     title: "#客观"
     details: 科学事实与友善用语
