@@ -29,6 +29,11 @@ const members = [
     name: '闻千',
     title: '内容贡献',
   },
+   {
+    avatar: 'https://github.com/Leetfs.png',
+    name: 'Lee',
+    title: '技术支持',
+  },
 ]
 </script>
 <VPTeamMembers size="small" :members="members" />
