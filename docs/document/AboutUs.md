@@ -48,3 +48,7 @@ const members = [
 `推特` [@ChisakaKanako](https://twitter.com/ChisakaKanako)  
 `邮箱` chisakakanako@gmail.com
 :::
+
+如果你希望在Github上进行贡献，我们也一并欢迎。
+
+[访问Github仓库](https://github.com/ChisakaKanako/aboutTrans)
