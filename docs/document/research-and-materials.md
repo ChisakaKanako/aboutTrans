@@ -6,11 +6,11 @@ title: 相关调研与资料
 
 ## 北同文化《2021全国跨性别健康调研报告》（勘误版）
 
-[![](/r1.jpg)](/北同文化《2021全国跨性别健康调研报告》（勘误版）.pdf)
+[![](/r1.jpg)](https://transzh-project.github.io/docs/static/PDF/北同文化《2021全国跨性别健康调研报告》（勘误版）.pdf)
 
 ## 同语《中国多元性别女性的生活与权益研究报告》
 
-[![](/r2.jpg)](/同语《中国多元性别女性的生活与权益研究报告》.pdf)
+[![](/r2.jpg)](https://transzh-project.github.io/docs/static/PDF/同语《中国多元性别女性的生活与权益研究报告》.pdf)
 
 ---
 
