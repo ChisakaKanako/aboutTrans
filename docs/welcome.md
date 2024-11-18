@@ -10,7 +10,7 @@ title: 欢迎
 * [相关诊断与医疗](/document/Diagnosis&Medical.md)  
 * [相关政策与法规](/document/Policies&Regulations.md)  
 * [相关国际纪念日](/document/Days&Festivals.md)  
-* [相关调研与资料](/document/Research&Materials.md)  
+* [相关调研与资料](/document/research-and-materials.md)  
 * [相关误区与问答](/document/Q&A.md)  
 * [相关文章与报道](/document/Articles&Coverage.md)  
 * [关于我们](/document/AboutUs.md)
