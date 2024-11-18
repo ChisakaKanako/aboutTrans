@@ -48,4 +48,4 @@ title: 相关文章与报道
 
 ### 2020年2月
 
-[法制日报《跨性别人群生存困境调查：多数人有遭受校园暴力经历》](https://transzh-project.github.io/docs/static/coverage/20200222法制日报《跨性别人群生存困境调查：多数人有遭受校园暴力经历》.html)
+[法制日报《跨性别人群生存困境调查：多数人有遭受校园暴力经历》](https://transzh-project.github.io/docs/static/coverage/法制日报《跨性别人群生存困境调查：多数人有遭受校园暴力经历》.html)

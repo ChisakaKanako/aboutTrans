@@ -6,11 +6,11 @@ title: 相关调研与资料
 
 ## 北同文化《2021全国跨性别健康调研报告（勘误版）》
 
-[![](/r1.jpg)](https://transzh-project.github.io/docs/static/PDF/北同文化《2021全国跨性别健康调研报告（勘误版）》.pdf)
+[![](/r1.jpg)](https://transzh-project.github.io/docs/static/pdf/北同文化《2021全国跨性别健康调研报告（勘误版）》.pdf)
 
 ## 同语《中国多元性别女性的生活与权益研究报告》
 
-[![](/r2.jpg)](https://transzh-project.github.io/docs/static/PDF/同语《中国多元性别女性的生活与权益研究报告》.pdf)
+[![](/r2.jpg)](https://transzh-project.github.io/docs/static/pdf/同语《中国多元性别女性的生活与权益研究报告》.pdf)
 
 ---
 
@@ -18,8 +18,8 @@ title: 相关调研与资料
 
 ## 北同文化《跨性别医疗手册（2022）》
 
-[![](/m1.jpg)](https://transzh-project.github.io/docs/static/PDF/北同文化《跨性别医疗手册（2022）》.pdf)
+[![](/m1.jpg)](https://transzh-project.github.io/docs/static/pdf/北同文化《跨性别医疗手册（2022）》.pdf)
 
 ## 同志亦凡人《应对“扭转治疗”手册》
 
-[![](/m2.jpg)](https://transzh-project.github.io/docs/static/PDF/同志亦凡人《应对“扭转治疗”手册》.pdf)
+[![](/m2.jpg)](https://transzh-project.github.io/docs/static/pdf/同志亦凡人《应对“扭转治疗”手册》.pdf)
