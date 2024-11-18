@@ -13,4 +13,4 @@ title: 欢迎
 * [相关调研与资料](/document/research-and-materials.md)  
 * [相关误区与问答](/document/Q&A.md)  
 * [相关文章与报道](/document/Articles&Coverage.md)  
-* [关于我们](/document/AboutUs.md)
+* [关于我们](/about.md)
