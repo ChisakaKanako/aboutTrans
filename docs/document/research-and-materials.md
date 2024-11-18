@@ -18,8 +18,8 @@ title: 相关调研与资料
 
 ## 北同文化《跨性别医疗手册（2022）》
 
-[![](/m1.jpg)](/北同文化《跨性别医疗手册（2022）》.pdf)
+[![](/m1.jpg)](https://transzh-project.github.io/docs/static/PDF/北同文化《跨性别医疗手册（2022）》.pdf)
 
 ## 同志亦凡人《应对“扭转治疗”手册》
 
-[![](/m2.jpg)](/同志亦凡人《应对“扭转治疗”手册》.pdf)
+[![](/m2.jpg)](https://transzh-project.github.io/docs/static/PDF/同志亦凡人《应对“扭转治疗”手册》.pdf)
