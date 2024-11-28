@@ -12,4 +12,4 @@
 
 **Demo 于 2023 年 8 月 14 日**
 
-![](/demo.png)
+![](/docs/public/demo.png)
