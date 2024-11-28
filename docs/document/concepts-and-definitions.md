@@ -19,6 +19,7 @@ title: 相关概念与释义
 ## 非二元性别
 
 非二元性别（Non-binary），也称X性别（X-gender），指不符合传统的男女二元性别认同的个体，其性别认同因人而异。一些非二元性别个体可能认为自己是无性别（Agender）、双性别（Bigender）、流动性别（Genderfluid）以及性别酷儿（Genderqueer）。
+
 ## 顺性别
 
 顺性别（Cisgender），指那些性别认同与其指派性别相同的个体，与跨性别相对应。
