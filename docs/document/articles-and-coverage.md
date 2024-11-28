@@ -4,6 +4,10 @@ title: 相关文章与报道
 
 # 相关文章
 
+### 2024年11月
+
+[医学界《遭7次电击治疗后，一位跨性别者起诉医院》](https://transzh-project.github.io/docs/static/articles/医学界《遭7次电击治疗后，一位跨性别者起诉医院》.html)
+
 ### 2024年10月
 
 [冷杉RECORD《不完美跨儿：病人、斗士与谎言》](/冷杉RECORD《不完美跨儿：病人、斗士与谎言》.pdf)
