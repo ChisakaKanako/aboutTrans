@@ -10,7 +10,7 @@ title: 相关文章与报道
 
 ### 2024年10月
 
-[冷杉RECORD《不完美跨儿：病人、斗士与谎言》](/docs/static/articles/冷杉RECORD《不完美跨儿：病人、斗士与谎言》.html)
+[冷杉RECORD《不完美跨儿：病人、斗士与谎言》](https://transzh-program.github.io/docs/static/articles/冷杉RECORD《不完美跨儿：病人、斗士与谎言》.html)
 
 ### 2024年9月
 
