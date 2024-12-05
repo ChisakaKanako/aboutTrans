@@ -14,10 +14,6 @@ title: 相关调研与资料
 
 # 拓展资料
 
-[爱白《跨性别：如何安全注射激素》](https://transzh-program.github.io/docs/static/pdf/爱白《跨性别：如何安全注射激素》.pdf)
-
 [北同文化《跨性别医疗手册（2022）》](https://transzh-program.github.io/docs/static/pdf/北同文化《跨性别医疗手册（2022）》.pdf)
 
 [同志亦凡人《应对“扭转治疗”手册》](https://transzh-program.github.io/docs/static/pdf/同志亦凡人《应对“扭转治疗”手册》.pdf)
-
-[智同《跨性别性健康手册2022年第一版》](https://transzh-program.github.io/docs/static/pdf/智同《跨性别性健康手册2022年第一版》.pdf)
