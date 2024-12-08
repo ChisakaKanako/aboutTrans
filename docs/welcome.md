@@ -1,6 +1,7 @@
 ---
 title: 欢迎
 lastUpdated: false
+next: false
 ---
 
 # 欢迎来到aboutTrans
