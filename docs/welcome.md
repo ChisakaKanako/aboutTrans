@@ -12,7 +12,7 @@ next: false
 * [相关诊断与医疗](/document/diagnosis-and-medical)  
 * [相关政策与法规](/document/policies-and-regulations)  
 * [相关国际纪念日](/document/days-and-festivals)  
-* [相关调研与资料](/document/research-and-materials)  
 * [相关误区与问答](/document/q-and-a)  
 * [相关文章与报道](/document/articles-and-coverage)  
+* [相关调研与资料](/document/research-and-materials)  
 * [关于我们](/about)
