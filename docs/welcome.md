@@ -1,7 +1,7 @@
 ---
 title: 欢迎
-lastUpdated: false
 next: false
+lastUpdated: false
 ---
 
 > [!IMPORTANT] 内容须知
@@ -17,8 +17,6 @@ next: false
 > [相关国际纪念日](/document/days-and-festivals)
 > 
 > [相关误区与问答](/document/q-and-a)
-> 
-> [关于我们与贡献](/about)
 
 > [!TIP] 想了解更多文章报道与调研资料？
 > [访问我们的项目存档网站](https://transzh-program.github.io/docs/)
