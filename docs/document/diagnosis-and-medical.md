@@ -95,7 +95,7 @@ C. 基于环丙孕酮的治疗方案
 |无增加/不确定|低骨密度/骨质疏松<br>乳腺癌、宫颈癌、卵巢癌、子宫癌|
 :::
 
-1. [来源 - 《Standards of Care for the Health of Transgender and Gender Diverse People, Version 8》（跳转访问）](https://doi.org/10.1080/26895269.2022.2100644)
+1. [来源 - 国际跨性别健康杂志《跨性别和多元性别人群健康照护指南（第八版）》](https://transzh-program.github.io/docs/static/pdf/国际跨性别健康杂志《跨性别和多元性别人群健康照护指南（第八版）》.pdf)
 
 ## 性别肯定手术
 
