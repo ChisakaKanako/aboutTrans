@@ -16,6 +16,10 @@ title: 相关文章与报道
 
 [医学界《一位妇科医生开了跨性别医疗门诊》](https://transzh-program.github.io/docs/static/articles/医学界《一位妇科医生开了跨性别医疗门诊》/)
 
+### 2024年6月
+
+[真实故事计划Pro《当一位母亲知道孩子是跨性别后》](https://transzh-program.github.io/docs/static/articles/真实故事计划Pro《当一位母亲知道孩子是跨性别后》/)
+
 ### 2023年5月
 
 [丁香医生《我决定陪儿子重新长成一名女性》](https://transzh-program.github.io/docs/static/articles/丁香医生《我决定陪儿子重新长成一名女性》/)
