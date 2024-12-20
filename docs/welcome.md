@@ -19,4 +19,4 @@ lastUpdated: false
 > [相关误区与问答](/document/q-and-a)
 
 > [!TIP] 想了解更多文章报道与调研资料？
-> [访问我们的项目存档网站](https://docs.transzh.org/)
+> [访问我们的项目文档网站](https://docs.transzh.org/)
