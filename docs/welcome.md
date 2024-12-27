@@ -9,7 +9,7 @@ lastUpdated: false
 
 > [!NOTE] 本站页面导航
 > [相关概念与释义](/document/concepts-and-definitions)
->  
+> 
 > [相关诊断与医疗](/document/diagnosis-and-medical)
 > 
 > [相关政策与法规](/document/policies-and-regulations)
