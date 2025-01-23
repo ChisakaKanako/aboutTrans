@@ -4,6 +4,8 @@ next: false
 lastUpdated: false
 ---
 
+> [!WARNING] aboutTrans祝大家农历新年快乐！🎊
+
 > [!IMPORTANT] 内容须知
 > aboutTrans是一个主要面向不了解或希望了解跨性别群体的人的一个科普网站，我们目前还在起步阶段，在内容编写方面可能存在些许不足，如有错误欢迎积极指出也欢迎加入我们一同参与网站建设！
 
