@@ -18,6 +18,6 @@ lastUpdated: false
 > 
 > [相关误区与问答](/document/q-and-a)
 
-[^1]: <https://en.wikipedia.org/wiki/Transgender>
-[^2]: <https://book.douban.com/subject/36473977/>
-[^3]: <https://wpath.org/publications/soc8/>
+[^1]: [Transgender](https://en.wikipedia.org/wiki/Transgender)
+[^2]: [走出性别困境](https://book.douban.com/subject/36473977/)
+[^3]: [Standards of Care 8](https://wpath.org/publications/soc8/)
