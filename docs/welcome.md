@@ -18,9 +18,6 @@ lastUpdated: false
 > 
 > [相关误区与问答](/documents/q-and-a)
 
-> [!TIP] 我们邀请你参与一个简短的问卷调查
-> [点击这里即可帮助我们做得更好](https://docs.qq.com/form/page/DSHZxTG5wemVBV255)
-
 [^1]: [Transgender](https://en.wikipedia.org/wiki/Transgender)
 [^2]: [走出性别困境](https://book.douban.com/subject/36473977/)
 [^3]: [Standards of Care 8](https://wpath.org/publications/soc8/)
