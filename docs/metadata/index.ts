@@ -1,1 +1,0 @@
-export const plainTargetDomain = 'aboutrans.info'
