@@ -1,6 +1,7 @@
 .footnotes {
     font-size: 14px !important;
 }
+
 :root {
     --vp-c-brand-0: #e50073;
     --vp-c-brand-1: #cc1470;
@@ -11,4 +12,8 @@
     --vp-button-brand-hover-bg: var(--vp-c-brand-1); /*按钮悬停背景颜色*/
     --vp-button-brand-active-border: var(--vp-c-brand-2); /*按钮点击边框颜色*/
     --vp-button-brand-active-bg: var(--vp-c-brand-2); /*按钮点击背景颜色*/
+
+    .VPFeature:hover {
+        border: transparent !important;
+    }
 }

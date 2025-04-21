@@ -1,0 +1,52 @@
+.btn-apple {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #5b5b5b;
+    border-radius: 15px 30px 45px 60px;
+    background: #fff;
+    color: #333;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-apple:hover {
+    background-color: #eaeaea;
+  }
+  
+  .btn-apple:active {
+    background-color: #d4d4d4;
+  }
+  
+  .btn-apple::after {
+    content: '';
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-top: 10px solid #5b5b5b;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    margin-left: -10px;
+  }
+
+  .icon-apple {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: url('apple-icon.png') no-repeat center center;
+    background-size: contain;
+    border-radius: 25px;
+  }
+  
+  .icon-apple::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid #5b5b5b;
+    border-radius: 50%;
+    background: #fff;
+  }
