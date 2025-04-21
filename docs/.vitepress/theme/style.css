@@ -14,6 +14,6 @@
     --vp-button-brand-active-bg: var(--vp-c-brand-2); /*按钮点击背景颜色*/
 
     .VPFeature:hover {
-        border: transparent !important;
+        border: 1px solid transparent !important;
     }
 }
