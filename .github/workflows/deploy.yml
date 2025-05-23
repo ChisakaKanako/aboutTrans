@@ -24,6 +24,9 @@ jobs:
 
       - name: 构建项目
         run: npm run docs:build # 构建 VitePress 项目
+      
+      - name: Install Wrangler
+        run: npm install -g wrangler@4.16.1
 
       - name: Deploy to Cloudflare Pages
         id: deploy
