@@ -42,3 +42,7 @@ mark {
 header > div > div.wrapper > div > div.content {
     overflow: hidden;
 }
+
+.VPContent > .VPDoc {
+    padding-top: 48px;
+}
