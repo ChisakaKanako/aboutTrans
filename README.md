@@ -1,4 +1,4 @@
-![aboutTrans](docs/public/banner.png)
+![aboutTrans](docs/public/social.png)
 
 ### aboutTrans 是一个跨性别相关知识科普站，希望能通过知识科普帮到更多人！
 
