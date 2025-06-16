@@ -92,6 +92,7 @@ export default defineConfig({
           { text: '纪念活动', link: '/docs/events' },
           { text: '社会支持', link: '/docs/support' },
           { text: '误区问答', link: '/docs/faq' },
+          { text: '调研资料', link: '/docs/resources' },
         ],
       },
     ],

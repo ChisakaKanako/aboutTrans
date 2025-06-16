@@ -37,4 +37,9 @@ features:
     title: 跨性别相关误区问答
     details: 关注跨性别议题中常见的问题和误解，并结合跨儿视角和当代科学研究进行解答。
     linkText: 浏览页面
+  - icon: 🖋️
+    link: /docs/resources
+    title: 跨性别相关调研资料
+    details: 汇总针对国内跨性别群体的相关调研及实用文档，为了解跨儿社群提供全方位参考。
+    linkText: 浏览页面
 ---
